@@ -1,3 +1,11 @@
+'''
+1. Ler e guardar 20 notas do aluno.
+Desafio Nivel 1: Calcule média, maior e menor nota
+
+2. Ler e guardar notas de alunos(4 alunos, com 5 notas cada)
+Desafio Nivel 2: Notas acima da média'''
+
+
 from dataclasses import dataclass
 
 @dataclass

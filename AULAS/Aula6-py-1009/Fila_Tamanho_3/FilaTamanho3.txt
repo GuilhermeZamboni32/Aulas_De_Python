@@ -1,0 +1,30 @@
+1 – Dada a lista encadeada:
+
+      0                   1                       2
+( João ( 1 ))  --->  ( Carlos ( 2 ))  --->  ( Ana ( NIL ))
+
+
+Responda:
+1. Ao removermos o nó Carlos, quais ponteiros precisam ser atualizados?
+2. Ao Reinserir o nó Ana, como ficará a Fila de Prioridade com seus respectivos nós.
+
+2 – Uma Fila Circular de tamanho 3, tem os ponteiros head e tail inicializados em 0:
+
+   *Após inserir 3 elementos, e em seguida remover 1 elemento, informe:
+        Qual o valor dos ponteiros (head e tail)?
+
+3 – Tendo um Fila e Uma Pilha vazia, onde ambas possuem operações para cada uma delas:
+    *Fila → enfileirar e desenfileirar:
+    *Pilha → empilhar e desempilhar
+
+
+As seguintes operações são realizadas
+    *enfileirar(1)
+    *enfileirar(2)
+    *dado = desenfileirar()
+    *enfileirar(3)
+    *dado = desenfileirar()
+    *empilhar(dado)
+    *desempilhar()
+
+Ao final de todas as operações, como estão os dados da Fila e da Pilha.

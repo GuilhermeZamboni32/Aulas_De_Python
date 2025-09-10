@@ -1,0 +1,22 @@
+Exercício – Fila de Prioridade
+
+Um pronto-socorro atende pacientes de acordo com a gravidade do caso.
+Cada paciente tem um nome e um nível de prioridade (quanto menor o número,
+maior a prioridade).
+
+Dada a seguinte lista de pacientes que chegaram na ordem abaixo:
+    1. João – prioridade 3
+    2. Maria – prioridade 1
+    3. Pedro – prioridade 4
+    4. Ana – prioridade 2
+
+Pergunta:
+    a) Qual a ordem em que os pacientes serão atendidos?
+
+
+
+Resposta:
+    1. Maria (prioridade 1)
+    2. Ana (prioridade 2)
+    3. João (prioridade 3)
+    4. Pedro (prioridade 4)
